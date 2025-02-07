@@ -10,10 +10,10 @@
 - css
 
 # Github Code Respository
-- http://github.com https://github.com/Gangsteroflove-arch/Demoweb22.git
+- https://github.com/Gangsteroflove-arch/Demoweb22.git
 
 # Github Website url
--htpp://github.com/
+- https://gangsteroflove-arch.github.io/Demoweb22/
 
 # future improvements
 - item 1
